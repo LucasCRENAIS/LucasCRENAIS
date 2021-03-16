@@ -6,7 +6,10 @@
 - HTML/CSS
 - PHP
 - Javascript
-- SQL
+- MySQL/MariaDB
+- Apache
+- Linux
+- API REST
 - Git
 - Bootstrap
 - Bulma
