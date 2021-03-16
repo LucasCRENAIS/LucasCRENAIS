@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas and i'm a Web Developper 👋
+# Hi there, I'm Lucas and i'm a Web Developper 👋
 
 ## I recently succefully validate a 6 mounth bootcamp at O'Clock school where i learned :
 
