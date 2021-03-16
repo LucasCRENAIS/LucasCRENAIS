@@ -13,6 +13,7 @@
 - Lumen
 
 ## I specalized in Symfony PHP framework
+### and i keep immroving my skills every day !
 
 <!--
 **LucasCRENAIS/LucasCRENAIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
