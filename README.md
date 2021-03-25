@@ -1,7 +1,7 @@
 ![jr-korpa-9XngoIpxcEo-unsplash](https://user-images.githubusercontent.com/70516001/111295014-34b6da80-864b-11eb-988b-11816494f564.jpg)
 # Hi there, i'm Lucas and i'm a Web Developper 👋
 
-## I recently successfully validate a 6 month bootcamp at O'Clock school where i learned :
+## I recently successfully validate a 6 months bootcamp at O'Clock school where i learned :
 
 - HTML/CSS
 - PHP
