@@ -17,7 +17,7 @@
 
 ## I specalized in Symfony PHP framework and i keep improving my skills every day !
 
-- 🔭 I’m currently working on a graduation project called [Agendigo](http://agendigo-projet.surge.sh), an appointement scheduler application
+- 🔭 I’m currently working on a graduation project called [Agendigo](http://agendigo.surge.sh), an appointement scheduler application
 - 👯 I’m looking for an intership as soon as possible 
 
 <!--
