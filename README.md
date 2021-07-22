@@ -17,8 +17,8 @@
 
 ## I specalized in Symfony PHP framework and i keep improving my skills every day !
 
-- 🔭 I’m currently working on a graduation project called [Agendigo](http://agendigo.surge.sh), an appointement scheduler application
-- 👯 I’m looking for an intership as soon as possible 
+- 🔭 I’m currently on a internship at OpenStudio (Clermont-Ferrand - 63)
+- 👯 I’m looking for a job as soon as possible 
 
 <!--
 **LucasCRENAIS/LucasCRENAIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
