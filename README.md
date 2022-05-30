@@ -4,21 +4,35 @@
 ## I recently successfully validate a 6 months bootcamp at O'Clock school where i learned :
 
 - HTML/CSS
-- PHP
+- SQL
+- PHP 7+
 - Javascript
 - MySQL/MariaDB
 - Apache
-- Linux
-- API REST
+- Linux/Ubuntu
+- REST API
 - Git
 - Bootstrap
 - Bulma
-- Lumen
+
+## I also have some knowledge of
+
+- Angular
+- Java & Springboot
+- Docker
+- Azure
+- Heroku
 
 ## I specalized in Symfony PHP framework and i keep improving my skills every day !
 
-- 🔭 I’m currently on a internship at OpenStudio (Clermont-Ferrand - 63)
+- 🔭 I’m recently achieve a Java & Springboot bootcamp with the "Institut de la PME" (Clermont-Ferrand - 63)
 - 👯 I’m looking for a job as soon as possible 
+
+## here you can find some of my work :
+
+* https://agendigo.surge.sh
+* https://js-todolist-lc.herokuapp.com/
+
 
 <!--
 **LucasCRENAIS/LucasCRENAIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
